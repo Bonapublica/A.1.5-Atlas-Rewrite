@@ -11,3 +11,4 @@ Created 3 Element Analysis
 Created 3 FacilitatorDAO Action Examples 
 
 [ Visit our Github Repository ](https://github.com/Bonapublica/A.1.5-Atlas-Rewrite/blob/main/Bonapublica%20Revise%20A.1.5) 
+
